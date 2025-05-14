@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class CopyArray {
 
     public static void main(String[] args) {
-        double[] a = {1.0, 2.0, 3.0};
+        double[] a = {1.0, 2.0, 3.0,4.0};
 
         double[] b = new double[3];
 
