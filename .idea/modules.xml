@@ -10,8 +10,11 @@
       <module fileurl="file://$PROJECT_DIR$/ch10/ch10.iml" filepath="$PROJECT_DIR$/ch10/ch10.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch11/ch11.iml" filepath="$PROJECT_DIR$/ch11/ch11.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch12/ch12.iml" filepath="$PROJECT_DIR$/ch12/ch12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13/ch13.iml" filepath="$PROJECT_DIR$/ch13/ch13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14/ch14.iml" filepath="$PROJECT_DIR$/ch14/ch14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch05/codes in note/codes in note.iml" filepath="$PROJECT_DIR$/Ch05/codes in note/codes in note.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/manusha-think-java-exercises.iml" filepath="$PROJECT_DIR$/.idea/manusha-think-java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self_study/self_study.iml" filepath="$PROJECT_DIR$/self_study/self_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
