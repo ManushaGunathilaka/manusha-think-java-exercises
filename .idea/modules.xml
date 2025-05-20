@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch03/ch03.iml" filepath="$PROJECT_DIR$/ch03/ch03.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch05/ch05.iml" filepath="$PROJECT_DIR$/ch05/ch05.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch06/ch06.iml" filepath="$PROJECT_DIR$/ch06/ch06.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch07/ch07.iml" filepath="$PROJECT_DIR$/ch07/ch07.iml" />
@@ -14,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/ch14/ch14.iml" filepath="$PROJECT_DIR$/ch14/ch14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch05/codes in note/codes in note.iml" filepath="$PROJECT_DIR$/Ch05/codes in note/codes in note.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/manusha-think-java-exercises.iml" filepath="$PROJECT_DIR$/.idea/manusha-think-java-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meeting/meeting.iml" filepath="$PROJECT_DIR$/meeting/meeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/self_study/self_study.iml" filepath="$PROJECT_DIR$/self_study/self_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
