@@ -14,6 +14,7 @@ class A {
     void m1(A a){
         System.out.println("A");
     }
+
 }
 
 class B extends A {
